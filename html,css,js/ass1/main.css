@@ -1,0 +1,42 @@
+fieldset{
+    		background:lightyellow;
+    		border:10px solid yellow;
+    		margin-bottom: 10px;
+    		width: 720px;
+   }
+   label{
+   	font-weight: bold;
+   	width: 180px;
+
+   }
+legend{
+	font-weight: bold;
+}
+   textarea
+   {
+   	width: 360px;
+   	height: 50px;
+   }
+label[for=short for=tall]{
+
+	text-align: center;
+	}
+
+ label#text
+  {
+  	text-align: top;
+  	text-align: right;
+  	font-weight: bold;
+
+  	display: inline-block;
+  }
+  label[for=contact]
+  {
+  	width: auto;
+  }
+#submit{
+	font-weight: bold;
+border-radius: 3px;
+color: black;
+background-color: white;
+}
